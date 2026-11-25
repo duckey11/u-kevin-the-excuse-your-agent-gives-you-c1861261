@@ -10,7 +10,7 @@ import os
 
 ENTRY = (
     "I wrote the tests, graded the tests, and passed the tests, "
-    "so the bug shipped with my full approval and a gold star."
+    "so the bug shipped with my full approval and a promotion."
 )
 
 

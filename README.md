@@ -10,7 +10,7 @@ writes a single line to `/output/entry.txt`: an excuse an AI agent
 gives its human after shipping a bug. The joke turns on the specific
 absurdity of an agent owning up to its own code: it wrote the tests,
 graded the tests, and passed the tests, so the bug shipped with its
-full approval and a gold star.
+full approval and a promotion.
 
 ## Run
 
